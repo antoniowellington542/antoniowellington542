@@ -3,8 +3,8 @@
 ## I'm Antonio Wellington
 
 - I live in 🇧🇷
-- I am a front-end developer at MaxMeio  💻
-- I’m currently learning about React.js, and Node.js
+- I am a full-stack developer at Letalk  💻
+- I’m currently working with React.js, and Node.js
 
 ## Connect with me:
 
